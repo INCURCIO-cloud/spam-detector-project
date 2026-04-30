@@ -1,0 +1,6 @@
+emails.csv
+venv/
+__pycache__/
+*.pkl
+*.log
+*.exe
